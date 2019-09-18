@@ -1,0 +1,11 @@
+C:\Users\eser.kuru\source\repos\CommandLineTest\CommandLineTest\bin\Debug\netcoreapp2.2\CommandLineTest.deps.json
+C:\Users\eser.kuru\source\repos\CommandLineTest\CommandLineTest\bin\Debug\netcoreapp2.2\CommandLineTest.runtimeconfig.json
+C:\Users\eser.kuru\source\repos\CommandLineTest\CommandLineTest\bin\Debug\netcoreapp2.2\CommandLineTest.runtimeconfig.dev.json
+C:\Users\eser.kuru\source\repos\CommandLineTest\CommandLineTest\bin\Debug\netcoreapp2.2\CommandLineTest.dll
+C:\Users\eser.kuru\source\repos\CommandLineTest\CommandLineTest\bin\Debug\netcoreapp2.2\CommandLineTest.pdb
+C:\Users\eser.kuru\source\repos\CommandLineTest\CommandLineTest\obj\Debug\netcoreapp2.2\CommandLineTest.csprojAssemblyReference.cache
+C:\Users\eser.kuru\source\repos\CommandLineTest\CommandLineTest\obj\Debug\netcoreapp2.2\CommandLineTest.csproj.CoreCompileInputs.cache
+C:\Users\eser.kuru\source\repos\CommandLineTest\CommandLineTest\obj\Debug\netcoreapp2.2\CommandLineTest.AssemblyInfoInputs.cache
+C:\Users\eser.kuru\source\repos\CommandLineTest\CommandLineTest\obj\Debug\netcoreapp2.2\CommandLineTest.AssemblyInfo.cs
+C:\Users\eser.kuru\source\repos\CommandLineTest\CommandLineTest\obj\Debug\netcoreapp2.2\CommandLineTest.dll
+C:\Users\eser.kuru\source\repos\CommandLineTest\CommandLineTest\obj\Debug\netcoreapp2.2\CommandLineTest.pdb
